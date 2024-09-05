@@ -13,6 +13,8 @@ int main() {
     cout << "Enter second number: ";
     cin >> num2;
 
+    cout<<"hi hello";
+
     switch(operation) {
         case '+':
             cout << "Result: " << num1 + num2 << endl;
